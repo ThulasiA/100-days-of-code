@@ -1,10 +1,9 @@
-# 100 Days Of Code - Log
+# Round 2 of 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 26-28 Apr 27, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: - Re Organized my old projects
+- Focused on YDKJS Scope edition
+- Learned more on React Context API 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Wanted to focus more on theory aspects of JS and React. 
