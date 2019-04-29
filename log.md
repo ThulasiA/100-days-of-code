@@ -15,4 +15,5 @@
 
 **Notes:** Came across this valuable tip: Reduce Activity in loops to improve performance. Instead of i < arr.length on for loop, assign a variable beforehand for arr.length. let l = arr.length. i < l;
 
-**Link to work**: [Codepen CSS Chessboard] (https://codepen.io/ThulasiA/pen/yGrmKY)
+**Link to work**: [Codepen CSS Chessboard](https://codepen.io/ThulasiA/pen/yGrmKY)
+
