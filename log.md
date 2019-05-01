@@ -17,3 +17,10 @@
 
 **Link to work**: [Codepen CSS Chessboard](https://codepen.io/ThulasiA/pen/yGrmKY)
 
+### Day 30 Apr 30, 2019
+
+**Today's Progress**: 
+- Portfolio Changes
+
+**Thoughts:** When organizing the portfolio, got an idea to regroup header and menu items to different React components.
+Hope to implement this soon.
