@@ -24,3 +24,11 @@
 
 **Thoughts:** When organizing the portfolio, got an idea to regroup header and menu items to different React components.
 Hope to implement this soon.
+
+### Day 31-33 May 3, 2019
+
+**Today's Progress**: 
+-  Basics of JS and CSS
+
+**Thoughts:** Relearning the basics on spaced repetition is effective when coding. Mastering some basics with the help of Javascript30, and CSS Visual Dictionary. 
+
